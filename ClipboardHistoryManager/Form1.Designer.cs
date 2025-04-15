@@ -34,6 +34,7 @@
             // 
             // notifyIcon1
             // 
+            notifyIcon1.Icon = new Icon("Assets/artboard.ico");
             notifyIcon1.Text = "Clipboard Manager";
             notifyIcon1.Visible = true;
             // 
